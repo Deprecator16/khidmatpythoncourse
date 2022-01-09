@@ -4,8 +4,9 @@
 
 Below are the links to the course recordings: 
 
-1. Intro: [Link]https://drive.google.com/drive/folders/1mypFxtz20TmrXWsjnDDDKHhc1V_W_IPa
-
+1. Intro: [https://drive.google.com/drive/folders/1mypFxtz20TmrXWsjnDDDKHhc1V_W_IPa
+](https://drive.google.com/drive/folders/1mypFxtz20TmrXWsjnDDDKHhc1V_W_IPa
+)
 ## Topics Covered
 
 ### Class 1 (January 2)
@@ -13,7 +14,7 @@ Below are the links to the course recordings:
 2. How to install Python
 3. Variables
 
-### Class 2 (Not taught yet) (January 9)
+### Class 2 (To be taught) (January 9)
 1. Conditional statements (If, else statements)
 2. Booleans and Boolean Logic
 3. Output
