@@ -4,7 +4,7 @@
 
 Below are the links to the course recordings: 
 
-1. Intro: https://drive.google.com/drive/folders/1mypFxtz20TmrXWsjnDDDKHhc1V_W_IPa
+1. Intro: [Link]https://drive.google.com/drive/folders/1mypFxtz20TmrXWsjnDDDKHhc1V_W_IPa
 
 ## Topics Covered
 
