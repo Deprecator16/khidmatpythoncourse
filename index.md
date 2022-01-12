@@ -13,31 +13,31 @@ Below are the links to the course recordings:
 An introduction to python directly fron the python website: [https://python.land/python-tutorial](https://python.land/python-tutorial)
 
 ### Binary/Base-2, Bits, Bytes
-[https://www.mathsisfun.com/binary-number-system.html](https://www.mathsisfun.com/binary-number-system.html)
-[https://learn.sparkfun.com/tutorials/binary/all](https://learn.sparkfun.com/tutorials/binary/all)
+1. [https://www.mathsisfun.com/binary-number-system.html](https://www.mathsisfun.com/binary-number-system.html)
+2. [https://learn.sparkfun.com/tutorials/binary/all](https://learn.sparkfun.com/tutorials/binary/all)
 
 ### Booleans and Boolean Algebra/Logic
-[https://ryanstutorials.net/boolean-algebra-tutorial/](https://ryanstutorials.net/boolean-algebra-tutorial/)
-[https://www.lotame.com/what-is-boolean-logic/](https://www.lotame.com/what-is-boolean-logic/)
+1. [https://ryanstutorials.net/boolean-algebra-tutorial/](https://ryanstutorials.net/boolean-algebra-tutorial/)
+2. [https://www.lotame.com/what-is-boolean-logic/](https://www.lotame.com/what-is-boolean-logic/)
 
 ### Variables
-[https://computersciencewiki.org/index.php/Variables](https://computersciencewiki.org/index.php/Variables)
-[https://cscircles.cemc.uwaterloo.ca/1-variables/](https://cscircles.cemc.uwaterloo.ca/1-variables/)
-[https://www.tutorialspoint.com/python/python_variable_types.htm](https://www.tutorialspoint.com/python/python_variable_types.htm)
+1. [https://computersciencewiki.org/index.php/Variables](https://computersciencewiki.org/index.php/Variables)
+2. [https://cscircles.cemc.uwaterloo.ca/1-variables/](https://cscircles.cemc.uwaterloo.ca/1-variables/)
+3. [https://www.tutorialspoint.com/python/python_variable_types.htm](https://www.tutorialspoint.com/python/python_variable_types.htm)
 
 ### Conditional Statements (If, else, etc.)
-[https://www.analyticsvidhya.com/blog/2021/08/a-comprehensive-guide-to-conditional-statements-in-python-for-data-science-beginners/](https://www.analyticsvidhya.com/blog/2021/08/a-comprehensive-guide-to-conditional-statements-in-python-for-data-science-beginners/)
+1. [https://www.analyticsvidhya.com/blog/2021/08/a-comprehensive-guide-to-conditional-statements-in-python-for-data-science-beginners/](https://www.analyticsvidhya.com/blog/2021/08/a-comprehensive-guide-to-conditional-statements-in-python-for-data-science-beginners/)
 
 ### Strings
-[https://python.land/introduction-to-python/strings](https://python.land/introduction-to-python/strings)
+1. [https://python.land/introduction-to-python/strings](https://python.land/introduction-to-python/strings)
 
 ### Loops
-[https://cscircles.cemc.uwaterloo.ca/7c-loops/](https://cscircles.cemc.uwaterloo.ca/7c-loops/)
-[https://www.learnpython.org/en/Loops](https://www.learnpython.org/en/Loops)
+1. [https://cscircles.cemc.uwaterloo.ca/7c-loops/](https://cscircles.cemc.uwaterloo.ca/7c-loops/)
+2. [https://www.learnpython.org/en/Loops](https://www.learnpython.org/en/Loops)
 
 ### Functions
-[https://www.cs.utah.edu/~germain/PPS/Topics/functions.html](https://www.cs.utah.edu/~germain/PPS/Topics/functions.html)
-[https://www.w3schools.com/python/python_functions.asp](https://www.w3schools.com/python/python_functions.asp)
+1. [https://www.cs.utah.edu/~germain/PPS/Topics/functions.html](https://www.cs.utah.edu/~germain/PPS/Topics/functions.html)
+2. [https://www.w3schools.com/python/python_functions.asp](https://www.w3schools.com/python/python_functions.asp)
 
 ## Topics Covered
 ### Class 1 (January 2)
