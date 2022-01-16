@@ -4,9 +4,9 @@
 
 Below are the links to the course recordings: 
 
-1. Intro: [https://drive.google.com/drive/folders/1mypFxtz20TmrXWsjnDDDKHhc1V_W_IPa
-](https://drive.google.com/drive/folders/1mypFxtz20TmrXWsjnDDDKHhc1V_W_IPa)
+1. Class 1: [https://drive.google.com/drive/folders/1mypFxtz20TmrXWsjnDDDKHhc1V_W_IPa](https://drive.google.com/drive/folders/1mypFxtz20TmrXWsjnDDDKHhc1V_W_IPa)
 2. Class 2: [https://drive.google.com/drive/u/2/folders/1DfQmaDuKCGMOz7NB6bKz1ftKum88Pyrq](https://drive.google.com/drive/u/2/folders/1DfQmaDuKCGMOz7NB6bKz1ftKum88Pyrq)
+3. Class 3: [https://drive.google.com/drive/folders/1vmXnyhkmqgesuk6vzz56fxsMQ1GWMeBx?usp=sharing](https://drive.google.com/drive/folders/1vmXnyhkmqgesuk6vzz56fxsMQ1GWMeBx?usp=sharing)
 
 ## Further Individual Topic Readings
 ### Python intros
@@ -52,7 +52,7 @@ An introduction to python directly fron the python website: [https://python.land
 4. Intro to using and manipulating Strings
 5. Getting Input
 
-### Class 3 (To be taught) (January 16)
+### Class 3 (January 16)
 1. Deeper study of strings
 2. Deeper study of Boolean Logic
 3. Python syntax details
