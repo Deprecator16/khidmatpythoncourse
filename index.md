@@ -17,7 +17,7 @@ Ex 1. If the user enters 4, the output will be calculated as 1 + 2 + 3 + 4 = 10,
 Ex 2. User enters 7, calculate: 1 + 2 + 3 + 4 + 5 + 6 + 7 = 28, output 28.
 
 Once you have completed the assignment, go the the link below and upload your file:
-https://forms.gle/SdM95oEvXyQMxBYz5
+[https://forms.gle/SdM95oEvXyQMxBYz5](https://forms.gle/SdM95oEvXyQMxBYz5)
 
 ## Further Individual Topic Readings
 ### Python intros
