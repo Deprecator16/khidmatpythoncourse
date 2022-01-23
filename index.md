@@ -52,9 +52,9 @@ An introduction to python directly fron the python website: [https://python.land
 2. [https://www.w3schools.com/python/python_functions.asp](https://www.w3schools.com/python/python_functions.asp)
 
 ### Arrays/Lists
-1. https://developers.google.com/edu/python/lists
-2. https://www.geeksforgeeks.org/python-list/
-3. https://docs.python.org/3/tutorial/datastructures.html
+1. [https://developers.google.com/edu/python/lists](https://developers.google.com/edu/python/lists)
+2. [https://www.geeksforgeeks.org/python-list/](https://www.geeksforgeeks.org/python-list/)
+3. [https://docs.python.org/3/tutorial/datastructures.html](https://docs.python.org/3/tutorial/datastructures.html)
 
 ## Topics Covered
 ### Class 1 (January 2)
