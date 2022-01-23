@@ -7,6 +7,7 @@ Below are the links to the course recordings:
 1. Class 1: [https://drive.google.com/drive/folders/1mypFxtz20TmrXWsjnDDDKHhc1V_W_IPa](https://drive.google.com/drive/folders/1mypFxtz20TmrXWsjnDDDKHhc1V_W_IPa)
 2. Class 2: [https://drive.google.com/drive/u/2/folders/1DfQmaDuKCGMOz7NB6bKz1ftKum88Pyrq](https://drive.google.com/drive/u/2/folders/1DfQmaDuKCGMOz7NB6bKz1ftKum88Pyrq)
 3. Class 3: [https://drive.google.com/drive/folders/1vmXnyhkmqgesuk6vzz56fxsMQ1GWMeBx?usp=sharing](https://drive.google.com/drive/folders/1vmXnyhkmqgesuk6vzz56fxsMQ1GWMeBx?usp=sharing)
+4. Class 4: [https://drive.google.com/drive/folders/1NvLUn-N272PbOZ3yYARFeRWwpIw9aEGu?usp=sharing](https://drive.google.com/drive/folders/1NvLUn-N272PbOZ3yYARFeRWwpIw9aEGu?usp=sharing)
 
 ## Homework/Assignments
 ### Assignment 1:
@@ -69,3 +70,8 @@ An introduction to python directly fron the python website: [https://python.land
 3. Python syntax details
 4. Loops (while, do-while, for)
 5. Intro to Functions
+
+### Class 4 (January 23)
+1. Review of Assignment 1
+2. Arrays/Lists
+3. Functions
