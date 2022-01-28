@@ -4,10 +4,10 @@
 
 Below are the links to the course recordings: 
 
-  1. Class 1: [https://drive.google.com/drive/folders/1mypFxtz20TmrXWsjnDDDKHhc1V_W_IPa](https://drive.google.com/drive/folders/1mypFxtz20TmrXWsjnDDDKHhc1V_W_IPa)
-  2. Class 2: [https://drive.google.com/drive/u/2/folders/1DfQmaDuKCGMOz7NB6bKz1ftKum88Pyrq](https://drive.google.com/drive/u/2/folders/1DfQmaDuKCGMOz7NB6bKz1ftKum88Pyrq)
-  3. Class 3: [https://drive.google.com/drive/folders/1vmXnyhkmqgesuk6vzz56fxsMQ1GWMeBx?usp=sharing](https://drive.google.com/drive/folders/1vmXnyhkmqgesuk6vzz56fxsMQ1GWMeBx?usp=sharing)
-  4. Class 4: [https://drive.google.com/drive/folders/1NvLUn-N272PbOZ3yYARFeRWwpIw9aEGu?usp=sharing](https://drive.google.com/drive/folders/1NvLUn-N272PbOZ3yYARFeRWwpIw9aEGu?usp=sharing)
+  Class 1: [https://drive.google.com/drive/folders/1mypFxtz20TmrXWsjnDDDKHhc1V_W_IPa](https://drive.google.com/drive/folders/1mypFxtz20TmrXWsjnDDDKHhc1V_W_IPa)
+  Class 2: [https://drive.google.com/drive/u/2/folders/1DfQmaDuKCGMOz7NB6bKz1ftKum88Pyrq](https://drive.google.com/drive/u/2/folders/1DfQmaDuKCGMOz7NB6bKz1ftKum88Pyrq)
+  Class 3: [https://drive.google.com/drive/folders/1vmXnyhkmqgesuk6vzz56fxsMQ1GWMeBx?usp=sharing](https://drive.google.com/drive/folders/1vmXnyhkmqgesuk6vzz56fxsMQ1GWMeBx?usp=sharing)
+  Class 4: [https://drive.google.com/drive/folders/1NvLUn-N272PbOZ3yYARFeRWwpIw9aEGu?usp=sharing](https://drive.google.com/drive/folders/1NvLUn-N272PbOZ3yYARFeRWwpIw9aEGu?usp=sharing)
 
 ## Homework/Assignments
 ### Assignment 1:
