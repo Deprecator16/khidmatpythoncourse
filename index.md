@@ -1,5 +1,8 @@
 # Welcome to the Khidmat Python Course
 
+## Project Idea Submission Link
+  Link to submit your idea: [https://forms.gle/EoAmBsgWuUbJnw8R6](https://forms.gle/EoAmBsgWuUbJnw8R6)
+
 ## Course Recordings
 
 Below are the links to the course recordings: 
@@ -11,6 +14,8 @@ Below are the links to the course recordings:
   Class 3: [https://drive.google.com/drive/folders/1vmXnyhkmqgesuk6vzz56fxsMQ1GWMeBx?usp=sharing](https://drive.google.com/drive/folders/1vmXnyhkmqgesuk6vzz56fxsMQ1GWMeBx?usp=sharing)
   
   Class 4: [https://drive.google.com/drive/folders/1NvLUn-N272PbOZ3yYARFeRWwpIw9aEGu?usp=sharing](https://drive.google.com/drive/folders/1NvLUn-N272PbOZ3yYARFeRWwpIw9aEGu?usp=sharing)
+  
+  Class 5: [https://drive.google.com/drive/folders/1P_xoD55OiDGy4ujy3XDe7N5jgRL0E6TF?usp=sharing](https://drive.google.com/drive/folders/1P_xoD55OiDGy4ujy3XDe7N5jgRL0E6TF?usp=sharing)
 
 ## Homework/Assignments
 ### Assignment 1:
@@ -85,6 +90,11 @@ An introduction to python directly fron the python website: [https://python.land
 2. [https://www.geeksforgeeks.org/python-list/](https://www.geeksforgeeks.org/python-list/)
 3. [https://docs.python.org/3/tutorial/datastructures.html](https://docs.python.org/3/tutorial/datastructures.html)
 
+### Object Oriented Programming (OOP)
+1. [https://docs.python.org/3/tutorial/classes.html](https://docs.python.org/3/tutorial/classes.html)
+2. [https://www.geeksforgeeks.org/python-oops-concepts/](https://www.geeksforgeeks.org/python-oops-concepts/)
+3. [https://www.analyticsvidhya.com/blog/2020/09/object-oriented-programming/](https://www.analyticsvidhya.com/blog/2020/09/object-oriented-programming/)
+
 ## Topics Covered
 ### Class 1 (January 2)
 1. Basic Computer Hardware
@@ -109,3 +119,13 @@ An introduction to python directly fron the python website: [https://python.land
 1. Review of Assignment 1
 2. Arrays/Lists
 3. Functions
+
+### Class 5 (January 30)
+1. Review of Functions
+2. Function Parameters
+3. Personal Projects
+4. Intro to Object Oriented Programming (OOP)
+
+### Class 6 (To be taught next class)
+1. Tuples
+2. In-depth look at Object Oriented Programming
