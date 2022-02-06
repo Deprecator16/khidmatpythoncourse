@@ -16,6 +16,8 @@ Below are the links to the course recordings:
   Class 4: [https://drive.google.com/drive/folders/1NvLUn-N272PbOZ3yYARFeRWwpIw9aEGu?usp=sharing](https://drive.google.com/drive/folders/1NvLUn-N272PbOZ3yYARFeRWwpIw9aEGu?usp=sharing)
   
   Class 5: [https://drive.google.com/drive/folders/1P_xoD55OiDGy4ujy3XDe7N5jgRL0E6TF?usp=sharing](https://drive.google.com/drive/folders/1P_xoD55OiDGy4ujy3XDe7N5jgRL0E6TF?usp=sharing)
+  
+  Class 6: [https://drive.google.com/drive/folders/1M1TmhLaCefdTBDER4DVjjFTKfjGXCrTH?usp=sharing](https://drive.google.com/drive/folders/1M1TmhLaCefdTBDER4DVjjFTKfjGXCrTH?usp=sharing)
 
 ## Homework/Assignments
 ### Assignment 1:
@@ -41,6 +43,31 @@ Create the following 4 functions:
 
 Once you have completed the assignment, go the the link below and upload your file:
 [https://forms.gle/AfkUaVGdMkvFapKe6](https://forms.gle/AfkUaVGdMkvFapKe6)
+
+### Assignment 3:
+Create a Car class which has the following attributes: modelName, maxGas, amountOfGas, and distanceDriven.
+
+The modelName attribute will simply be the name of the car. This isn't too important.
+The maxGas attribute is going to be the maximum amount of gas this car can hold, in liters. You can set this to whatever number you like, as long as it's above 0.
+The amountOfGas attribute is the current amount of gas that the car has in it at the moment.
+The distanceDriven attribute is the total distance the car has traveled in kilometres. This will initially be 0.
+
+Add 2 functions/methods *inside* of the Car class, which will look like the following:
+
+def fillUpGas(amount)
+
+def driveDistance(distance)
+
+fillUpGas(amount) will add gas to the car by increasing amountOfGas by the amount parameter. However, amountOfGas cannot exceed maxGas. If it does exceed maxGas, then simply set amountOfGas to the value of maxGas.
+
+driveDistance(distance) will drive the car a certain distance. You will increase distanceDriven by the distance driven by this function. You will also take away 1 litre of gas for every 2 kilometres that the car travels. If the car runs out of gas in the middle of trying to travel the given distance, then the car shouldn't be able to travel any further, and distanceDriven should reflect this. If there is 0 gas when this function is called, then the car shouldn't move at all.
+
+Once you've created the Car class, create 2 cars in your program, and add gas and drive them as much as you'd like, but ensure that it behaves correctly.
+
+Submit this program when you believe that it is complete.
+
+Once you have completed the assignment, go the the link below and upload your file:
+[https://forms.gle/PMaeyscKEF4QBuRi8](https://forms.gle/PMaeyscKEF4QBuRi8)
 
 ## Potential Programming Projects
   1. Simple banking system
@@ -126,6 +153,13 @@ An introduction to python directly fron the python website: [https://python.land
 3. Personal Projects
 4. Intro to Object Oriented Programming (OOP)
 
-### Class 6 (To be taught next class)
-1. Tuples
-2. In-depth look at Object Oriented Programming
+### Class 6 (February 6)
+1. In-depth look at Object Oriented Programming
+2. Tuples
+3. Python standard library
+4. Into to Data Structures
+
+### Class 7 (To be taught)
+1. Continuation of Data Structures
+2. Creating, reading, and writing to files
+3. Using Git and GitHub for Source Control
