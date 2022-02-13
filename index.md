@@ -19,6 +19,8 @@ Below are the links to the course recordings:
   
   Class 6: [https://drive.google.com/drive/folders/1M1TmhLaCefdTBDER4DVjjFTKfjGXCrTH?usp=sharing](https://drive.google.com/drive/folders/1M1TmhLaCefdTBDER4DVjjFTKfjGXCrTH?usp=sharing)
 
+  Class 7: [https://drive.google.com/drive/folders/19oQLqA4vKcBJlKLgHuRftYwPxeBHVpvK?usp=sharing](https://drive.google.com/drive/folders/19oQLqA4vKcBJlKLgHuRftYwPxeBHVpvK?usp=sharing)
+
 ## Homework/Assignments
 ### Assignment 1:
 Create a program which gets a number as input from the user and prints out the sum of the numbers from one to the inputted number.
@@ -122,6 +124,30 @@ An introduction to python directly fron the python website: [https://python.land
 2. [https://www.geeksforgeeks.org/python-oops-concepts/](https://www.geeksforgeeks.org/python-oops-concepts/)
 3. [https://www.analyticsvidhya.com/blog/2020/09/object-oriented-programming/](https://www.analyticsvidhya.com/blog/2020/09/object-oriented-programming/)
 
+### Tuples
+1. [https://www.w3schools.com/python/python_tuples.asp](https://www.w3schools.com/python/python_tuples.asp)
+
+### Python Standard Library
+1. [https://docs.python.org/3/library/](https://docs.python.org/3/library/)
+2. [https://docs.python.org/3/tutorial/stdlib.html](https://docs.python.org/3/tutorial/stdlib.html)
+3. [https://towardsdatascience.com/what-are-the-10-most-popular-standard-libraries-in-python-359defb104d6](https://towardsdatascience.com/what-are-the-10-most-popular-standard-libraries-in-python-359defb104d6)
+
+### Data Structures
+1. [https://www.geeksforgeeks.org/data-structures/?ref=shm](https://www.geeksforgeeks.org/data-structures/?ref=shm)
+2. [https://docs.python.org/3/tutorial/datastructures.html](https://docs.python.org/3/tutorial/datastructures.html)
+3. [https://www.geeksforgeeks.org/python-data-structures/](https://www.geeksforgeeks.org/python-data-structures/)
+
+### Reading/Writing to Files
+1. [https://www.geeksforgeeks.org/reading-writing-text-files-python/](https://www.geeksforgeeks.org/reading-writing-text-files-python/)
+2. [https://realpython.com/read-write-files-python/](https://realpython.com/read-write-files-python/)
+3. [https://www.w3schools.com/python/python_file_write.asp](https://www.w3schools.com/python/python_file_write.asp)
+
+### Git and GitHub for Source Control / Version Control
+1. [https://git-scm.com/](https://git-scm.com/)
+2. [https://github.com/](https://github.com/)
+3. [https://git-scm.com/book/en/v2](https://git-scm.com/book/en/v2)
+4. [https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
+
 ## Topics Covered
 ### Class 1 (January 2)
 1. Basic Computer Hardware
@@ -159,7 +185,11 @@ An introduction to python directly fron the python website: [https://python.land
 3. Python standard library
 4. Into to Data Structures
 
-### Class 7 (To be taught)
+### Class 7 (February 13)
 1. Continuation of Data Structures
 2. Creating, reading, and writing to files
 3. Using Git and GitHub for Source Control
+
+### Class 8 (To be taught) **Final Class**
+1. Exporting Python Programs
+2. Deploying Python Programs to Amazon Web Servers (AWS)
