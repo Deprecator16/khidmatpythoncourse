@@ -150,6 +150,14 @@ An introduction to python directly fron the python website: [https://python.land
 3. [https://git-scm.com/book/en/v2](https://git-scm.com/book/en/v2)
 4. [https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
 
+### Exporting a Python Program to a .EXE / Creating a Binary
+1. [https://datatofish.com/executable-pyinstaller/](https://datatofish.com/executable-pyinstaller/)
+
+### Creating/deploying a "Hello World" Web App
+1. [https://www.digitalocean.com/community/tutorials/how-to-make-a-web-application-using-flask-in-python-3](https://www.digitalocean.com/community/tutorials/how-to-make-a-web-application-using-flask-in-python-3)
+2. [https://phoenixnap.com/kb/install-flask](https://phoenixnap.com/kb/install-flask)
+3. [https://timmyreilly.azurewebsites.net/python-flask-windows-development-environment-setup/](https://timmyreilly.azurewebsites.net/python-flask-windows-development-environment-setup/)
+
 ## Topics Covered
 ### Class 1 (January 2)
 1. Basic Computer Hardware
