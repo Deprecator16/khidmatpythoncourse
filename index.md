@@ -20,6 +20,8 @@ Below are the links to the course recordings:
   Class 6: [https://drive.google.com/drive/folders/1M1TmhLaCefdTBDER4DVjjFTKfjGXCrTH?usp=sharing](https://drive.google.com/drive/folders/1M1TmhLaCefdTBDER4DVjjFTKfjGXCrTH?usp=sharing)
 
   Class 7: [https://drive.google.com/drive/folders/19oQLqA4vKcBJlKLgHuRftYwPxeBHVpvK?usp=sharing](https://drive.google.com/drive/folders/19oQLqA4vKcBJlKLgHuRftYwPxeBHVpvK?usp=sharing)
+  
+  Class 8: [https://drive.google.com/drive/folders/11ixF6-TtmEEEFTn8t0l1QFBVu98TWb0q?usp=sharing](https://drive.google.com/drive/folders/11ixF6-TtmEEEFTn8t0l1QFBVu98TWb0q?usp=sharing)
 
 ## Homework/Assignments
 ### Assignment 1:
@@ -183,13 +185,14 @@ An introduction to python directly fron the python website: [https://python.land
 1. In-depth look at Object Oriented Programming
 2. Tuples
 3. Python standard library
-4. Into to Data Structures
+4. Intro to Data Structures
 
 ### Class 7 (February 13)
 1. Continuation of Data Structures
 2. Creating, reading, and writing to files
 3. Using Git and GitHub for Source Control
 
-### Class 8 (To be taught) **Final Class**
-1. Exporting Python Programs
-2. Deploying Python Programs to Amazon Web Servers (AWS)
+### Class 8 (February 20) **Final Class**
+1. Upcoming Data Structures and Algorithms course in C++
+2. Exporting Python Programs
+3. Deploying Python Programs to a server/website
