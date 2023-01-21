@@ -13,7 +13,7 @@ Below are the links to the course recordings (They will be uploaded within an ho
 
 ## Topics To Be Covered
 ### Class 1 (January 21, 2023)
-1. Basic Computer Hardware
+1. Basic computer hardware
 2. How to install Python
 3. Basic input/output (Hello, World! example)
 4. Variables
