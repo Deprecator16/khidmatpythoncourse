@@ -3,7 +3,8 @@
 ## Course Recordings
 
 Below are the links to the course recordings (They will be uploaded within an hour after every class):
-  No Recordings Yet.
+  1. [https://drive.google.com/file/d/1mUg7nXYO4_NyOvgQ3IOXbrvB9gjtV4mD/view?usp=share_link](https://drive.google.com/file/d/1mUg7nXYO4_NyOvgQ3IOXbrvB9gjtV4mD/view?usp=share_link)
+  2. [https://drive.google.com/file/d/125-sdDlFBqlktNVi8W3QjmjFnZ7HUtJj/view?usp=share_link](https://drive.google.com/file/d/125-sdDlFBqlktNVi8W3QjmjFnZ7HUtJj/view?usp=share_link)
 
 ## Homework/Assignments
   Any homework/assignments will be posted here.
