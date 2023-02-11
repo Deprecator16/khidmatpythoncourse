@@ -7,7 +7,7 @@ Below are the links to the course recordings (They will be uploaded within an ho
   2. [https://drive.google.com/file/d/125-sdDlFBqlktNVi8W3QjmjFnZ7HUtJj/view?usp=share_link](https://drive.google.com/file/d/125-sdDlFBqlktNVi8W3QjmjFnZ7HUtJj/view?usp=share_link)
 
 ## Homework/Assignments
-  Any homework/assignments will be posted here.
+ 1. Assignment 1: https://forms.gle/9wHx5P1wCLPSLZSC8
 
 ## Further Individual Topic Readings
   Optional extra readings on various topics will be posted here.
